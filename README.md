@@ -20,9 +20,9 @@ Here are some ideas to get you started:
     <b>Hey 👋, I'm Apelove !<b/>
 </p>
 
-
-<img src="https://cdn.jsdelivr.net/gh/leewint/Images@main/common/202205102315734-gongzhonghao.png" alt="猿恋公众号" width="196" height="196"><img src="https://github-readme-stats.vercel.app/api?username=leewint&show_icons=true&bg_color=ffffff00&text_color=666666" alt="Github Stats" align="right"/>
-
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/leewint/Images@main/common/202205102315734-gongzhonghao.png" alt="猿恋公众号" width="196" height="196">&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=leewint&show_icons=true&bg_color=ffffff00&text_color=666666" alt="Github Stats"/>
+</p>
 
 <p align="center">
     <a title="Hits" target="_blank" href="https://github.com/leewint/leewint">
