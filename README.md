@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-    <!-- <b>Hey 👋, I'm <a href="https://apelove.top">Apelove</a> !<b/> -->
-    <b>Hey 👋, I'm Apelove !<b/>
+    <b>Hey 👋, I'm <a href="https://apelove.top">Apelove</a> !<b/>
 </p>
 
 <p align="center">
